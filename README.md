@@ -1,2 +1,1 @@
-# TicTacToeML
-Machine learning approach to solving tic tac toe.
+Simple python tic tac toe game where two players take turns placing their symbol (either an "X" or an "O") on a 3x3 grid. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
